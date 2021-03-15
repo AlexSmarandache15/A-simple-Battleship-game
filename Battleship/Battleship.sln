@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleship", "Battleship\Battleship.vcxproj", "{81B864C7-153B-4F13-BD29-1081BDED8EDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A2414BF-A9AD-47B9-A68E-201DD5578987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Debug|x64.ActiveCfg = Debug|x64
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Debug|x64.Build.0 = Debug|x64
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Debug|x86.Build.0 = Debug|Win32
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Release|x64.ActiveCfg = Release|x64
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Release|x64.Build.0 = Release|x64
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Release|x86.ActiveCfg = Release|Win32
+		{81B864C7-153B-4F13-BD29-1081BDED8EDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5815E073-6E6D-43BB-BDB5-A51439A74BBF}
+	EndGlobalSection
+EndGlobal

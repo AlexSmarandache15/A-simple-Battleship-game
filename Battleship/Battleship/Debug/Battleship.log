@@ -1,0 +1,37 @@
+﻿  battleship.cpp
+  board.cpp
+C:\Users\alexs\Desktop\Battleship\Battleship\board.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\board.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\board.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\board.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+  game.cpp
+  main.cpp
+  player.cpp
+  ships.cpp
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(130,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(130,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(130,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(130,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(170,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(170,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(170,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(170,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(210,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(210,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(210,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(210,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(250,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(250,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(250,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(250,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(291,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(291,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(291,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(291,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(331,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(331,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(331,64): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alexs\Desktop\Battleship\Battleship\ships.cpp(331,86): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+C:\Users\alexs\Desktop\Battleship\Battleship\iterator.h(37): warning C4715: 'Iterator<std::shared_ptr<Ship> >::currentItem': not all control paths return a value
+  Battleship.vcxproj -> C:\Users\alexs\Desktop\Battleship\Debug\Battleship.exe
