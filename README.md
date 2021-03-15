@@ -19,7 +19,7 @@ a) interactive, in which players place their ships, and then they strike alterna
 b) sequentially, in which alternately, one player places his ships and the other tries to sink them.<br /> <br /> 
 
 The commands allowed in the game are:<br /> 
-- Like - place a ship on the game board<br /> 
+- Place - place a ship on the game board<br /> 
 - Rotate - rotates the ship<br /> 
 - Remove - removes a ship from the game board<br /> 
 - Play - the command to start the game<br /> 
